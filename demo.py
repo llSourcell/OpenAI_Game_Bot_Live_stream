@@ -36,6 +36,7 @@ def main():
 
 	#init environment
 	env = gym.make('flashgames.CoasterRacer-v0')
+	env.configure(remotes=1) # downloads and starts a flashgames runtime
 	observation_n = env.reset()
 
 	#init variables
