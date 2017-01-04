@@ -6,12 +6,12 @@ This is the code for the "How to Install OpenAI's Universe and Make a Game Bot" 
 
 ##Dependencies
 
-* Universe (install instructions [here] https://github.com/openai/universe) 
+* Universe (install instructions [here](https://github.com/openai/universe) 
 * random (pip install random) 
 
 ##Usage
 
-Just run `python demo.py` to run this code
+Run `python demo.py` in terminal to run this code
 
 ##Credits
 
