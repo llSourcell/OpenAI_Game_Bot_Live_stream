@@ -16,7 +16,6 @@ def determine_turn(turn, observation_n, j, total_sum, prev_total_sum, reward_n):
 			turn = False
 
 		#reset vars
-		total_sum = 0
 		j = 0
 		prev_total_sum = total_sum
 		total_sum = 0
